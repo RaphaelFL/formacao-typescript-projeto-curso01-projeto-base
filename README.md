@@ -6,4 +6,4 @@ Entenda a configuração e compilação do código TypeScript
 
 Explore recursos como tipos primitivos, arrays, Type Alias e Enums
 
-Organize e divida seu projeto em módulos eficientes
+Organize e divida seu projeto em módulos eficientes .
